@@ -5,7 +5,7 @@
 -->
 
 Hello! I’m **Ayaan Kaifullah** 🌟  
-A passionate full‑stack developer based in the USA focused on AI‑powered tools, scalable web apps, and automation workflows. With a solid foundation in TypeScript, JavaScript, Python, and Ruby, I build end‑to‑end solutions that solve real‑world problems—ranging from AI‑driven Chrome extensions to computer‑vision attendance trackers.  
+A passionate full‑stack developer based in the USA focused on AI‑powered tools, scalable web apps, and automation workflows. With a solid foundation in TypeScript, JavaScript, Python, I build end‑to‑end solutions that solve real‑world problems—ranging from AI‑driven Chrome extensions to computer‑vision attendance trackers.  
 
 ---
 
@@ -23,11 +23,11 @@ A passionate full‑stack developer based in the USA focused on AI‑powered too
 ### 1. ✨ text-completion-AI-extension  
 A Chrome extension built with Next.js and TypeScript that auto‑completes your sentences and code using AI as you type. Enhances productivity by offering real-time suggestions seamlessly in the browser.
 
-### 2. ✉️ mail‑box‑ai  
-An AI‑powered email client leveraging OpenAI for automated replies, smart categorization, and a unified inbox—all scaffolded with the T3 Stack (Next.js, tRPC, Prisma).
-
-### 3. 💰 PennyBuddy  
+### 2. 💰 PennyBuddy  
 A finance management web app built with Next.js 13 and TypeScript, featuring user authentication, interactive dashboards, and responsive UI—backed by a Node.js API for handling transactions.
+
+### 3. ✉️ mail‑box‑ai  
+An AI‑powered email client leveraging OpenAI for automated replies, smart categorization, and a unified inbox—all scaffolded with the T3 Stack (Next.js, tRPC, Prisma).
 
 ### 4. 🏦 Expensify‑app (Fork)  
 Re‑imagined financial collaboration via chat‑centric workflows—migrated core modules to TypeScript and added in‑app messaging features for seamless team expense tracking.
